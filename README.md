@@ -1,8 +1,10 @@
 # Plots
-Plotting functions for (1) error bars, and (2) scatter plots in ptyhon using numpy, scipy, matplotlib.pyplot, and matplotlib.patches\n
+Plotting functions for (1) error bars, and (2) scatter plots in ptyhon using numpy, scipy, matplotlib.pyplot, and matplotlib.patches
 
 Usage:
+
 (1) import it - e.g. from PythonPlots import ErrorBarsForMeans
+
 (2) call the function - e.g.  ErrorBarsForMeans(
                               data, 
                               SpreadOfX = 0.1,
